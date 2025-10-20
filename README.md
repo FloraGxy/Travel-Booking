@@ -7,7 +7,7 @@
 |**Generation Platform**<br>SAP Business Application Studio|
 |**Template Used**<br>List Report Page V4|
 |**Service Type**<br>SAP System (ABAP Environment on SAP Business Technology Platform)|
-|**Service URL**<br>https://f3cc5dd0-460a-4857-8feb-b1d471dd9dbc.abap.us10.hana.ondemand.com/sap/opu/odata4/sap/zfe_ui_travel_o4_001132/srvd/sap/zfe_ui_travel_o4_001132/0001/|
+|**Service URL**<br>https://5bff2ab7-3ad1-48e3-8980-53a354a1b276.abap.us10.hana.ondemand.com/sap/opu/odata4/sap/ZFE_UI_TRAVEL_O4_001050/srvd/sap/ZFE_UI_TRAVEL_O4_001050/0001/|
 |**Module Name**<br>travellist|
 |**Application Title**<br>Travel List|
 |**Namespace**<br>sap.fe.demo|
